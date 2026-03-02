@@ -7,3 +7,4 @@ def reversed_list(lst1, lst2):
 
 print(reversed_list([1, 2, 3], [3, 2, 1]))
 print(reversed_list([1, 5, 3], [3, 2, 1]))
+print(reversed_list([11, 35, 43], [33, 2, 1]))
